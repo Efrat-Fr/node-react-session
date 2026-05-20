@@ -109,16 +109,16 @@ npm run dev
 # Screenshots
 
 ## Home Page
-![Home Page](./צילום מסך 2026-05-20 164531.png)
+![Home Page](./HomePage.png)
 
 ## Prodoucts Page
-![Prodoucts Page](./צילום מסך 2026-05-20 164531.png)
+![Prodoucts Page](./Product.png)
 
 ## Login Page
-![Prodoucts Page](./Login.png)
+![Login Page](./Login.png)
 
 ## Basket Page
-![Prodoucts Page](./Basket.png)
+![Bassket Page](./Basket.png)
 
 ---
 
