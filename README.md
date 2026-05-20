@@ -1,6 +1,6 @@
 # Music Store 🎵
 
-![Gif](./Music Store.gif)
+![Gif](./Music-Store.gif)
 
 A full-stack music store web application built with Node.js, Express, MongoDB, and React.
 
@@ -109,28 +109,16 @@ npm run dev
 # Screenshots
 
 ## Home Page
-
-```markdown
 ![Home Page](./צילום מסך 2026-05-20 164531.png)
-```
 
 ## Prodoucts Page
-
-```markdown
 ![Prodoucts Page](./צילום מסך 2026-05-20 164531.png)
-```
 
 ## Login Page
-
-```markdown
 ![Prodoucts Page](./Login.png)
-```
 
 ## Basket Page
-
-```markdown
 ![Prodoucts Page](./Basket.png)
-```
 
 ---
 
